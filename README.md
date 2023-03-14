@@ -67,4 +67,4 @@ To query the endpoint with sample input an entrypoint should be created to send 
 
 
 ## Standout Suggestions
-*The get faster results while the training ml.g4dn.4xlarge GPU supported instance type have been used when creating training jobs and endpoints.
+- The get faster results while the training ml.g4dn.4xlarge GPU supported instance type have been used when creating training jobs and endpoints.
