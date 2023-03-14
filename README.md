@@ -61,10 +61,10 @@ The crossentropy loss has been decreased as below when the model has been traini
 
 
 ## Model Deployment
-* To query the endpoint with sample input an entrypoint should be created to send the preprocessed image to it for this perpose **inference.py** python script has been used. Also the endpoint should be created using GPU supported instance type (ml.g4dn.4xlarge)
+To query the endpoint with sample input an entrypoint should be created to send the preprocessed image to it for this perpose **inference.py** python script has been used. Also the endpoint should be created using GPU supported instance type (ml.g4dn.4xlarge)
 ![image](https://user-images.githubusercontent.com/98076289/225051149-c8eabab2-ce9d-43b0-9e84-899eb0b86485.png)
 
 
 
 ## Standout Suggestions
-**TODO (Optional):** This is where you can provide information about any standout suggestions that you have attempted.
+*The get faster results while the training ml.g4dn.4xlarge GPU supported instance type have been used when creating training jobs and endpoints.
